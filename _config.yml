@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
   disqus:
-    shortname: @patrik_berggren
+    shortname: patrik_berggren
 
 # Exclude from processing.
 # The following items will not be processed, by default.
