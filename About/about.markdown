@@ -24,16 +24,3 @@ link it will take you to where I will put my examinations.
 
 if you follow [this](http://localhost:4000/)
 link then you will return to the "start" page.
-
-
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
