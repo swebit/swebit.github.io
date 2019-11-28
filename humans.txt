@@ -1,0 +1,26 @@
+# TEAM
+
+Designer & Developer: Patrik Berggren <pb222rp@student.lnu.se>
+Github: https://github.com/swebit
+Location: Kalmar, Sweden
+
+---
+
+# THANKS
+
+Johan Leitet & Mats Loock for teaching me!
+
+---
+
+ # TECHNOLOGY
+
+ ## Software
+
+ - Visual studio code 
+ - Git + Github
+ - Docker
+ - Jekyll
+ - Sass
+ - Markdown
+
+---
