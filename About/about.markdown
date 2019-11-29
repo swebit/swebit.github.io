@@ -19,8 +19,13 @@ approximately 3000 people.</p>
 I also follow different "thinkers" as I enjoy litsening and thinking about the mysteries of the universe.
 I hope that my studies makes me a better coder and a better person.</p>
 
-If you follow [this](http://localhost:4000/Examinations/)
-link it will take you to where I will put my examinations.
+<br>
+<br>
 
-if you follow [this](http://localhost:4000/)
-link then you will return to the "start" page.
+If you follow the links below they will take you to different paths within the website:
+
+[Home page](http://localhost:4000/)
+
+[My Bloggs](http://localhost:4000/Blogg/)
+
+[Examinations](http://localhost:4000/Examinations/)
