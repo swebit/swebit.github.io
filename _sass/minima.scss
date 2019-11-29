@@ -25,6 +25,36 @@ $content-width:    900px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
+
+
+nav {
+  a {
+      color: red($color: #000000);
+      font-weight: bold;
+      &:hover {
+        text-decoration-line: none;
+      }
+}
+}
+
+a.site-title {
+  font-weight: bold;
+  &:hover {
+    color: white;
+    text-decoration-line: none;
+  }
+}
+
+a.page-link:hover {
+  color: white;
+}
+
+a.u-email:hover {
+  text-decoration-line: none;
+  color: white
+}
+
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
