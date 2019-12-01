@@ -25,35 +25,93 @@ $content-width:    900px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
+$mycolor:          white;
+$mycolor2:         black;
+$postbackground:   #eee;
+$font:               bold;
+$decoration:         none;
+$padding:            10px 20px; 
+$postdashed:         1px dashed black;
 
 
 nav {
   a {
-      color: red($color: #000000);
-      font-weight: bold;
+      color: $mycolor2;
+      font-weight: $font;
       &:hover {
-        text-decoration-line: none;
+        text-decoration-line: $decoration;
       }
 }
 }
 
 a.site-title {
-  font-weight: bold;
+  font-weight: $font;
   &:hover {
-    color: white;
-    text-decoration-line: none;
+    color: $mycolor;
+    text-decoration-line: $decoration;
   }
 }
 
 a.page-link:hover {
-  color: white;
+  color: $mycolor;
 }
 
 a.u-email:hover {
-  text-decoration-line: none;
-  color: white
+  text-decoration-line: $decoration;
+  color: $mycolor;
 }
 
+h1.post-title {
+  font-weight: $font;
+}
+.mybloggs {
+  width: 700px;
+  padding: 0px;
+  margin: 0px;
+  border: $mycolor2;
+}
+
+.mybloggs li {
+  list-style: $decoration;
+  background: $postbackground;
+  border-top: 1px solid #ccc;
+  padding: $padding;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 2px solid grey;
+}
+
+ul li a{
+  color: $mycolor2;
+}
+
+li a:hover {
+  text-decoration-line: $decoration;
+  color: $mycolor;
+}
+
+p {
+  a:hover {
+    text-decoration-line: $decoration;
+    color: $mycolor;
+  }
+}
+
+.bloggposts {
+  background: $postbackground;
+  width: 700px;
+  border: 2px solid grey;
+  padding: $padding;
+  margin-left: 0px;
+}
+
+.post-content ul li a {
+  color: $mycolor2;
+  border-bottom: $postdashed;
+  &:hover {
+    color: $mycolor;
+  }
+}
 
 // Use media queries like this:
 // @include media-query($on-palm) {

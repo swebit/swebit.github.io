@@ -2,8 +2,9 @@
 layout: post
 title: Static site generators
 date: 2019-11-15 23:51:30 -0600
+excerpt: <br> A static site generator is a program that uses or source files and converts it into a static web...
 ---
-
+<div class = "bloggposts">
 <h1>Why do we use static site generetors?</h1>
 
 <p>A static site generator is a program that uses or takes source files and converts it into a static web site, in this case we are using Jekyll.</p>
@@ -15,3 +16,4 @@ date: 2019-11-15 23:51:30 -0600
 <p> Static site generators helps us to create the foundation of a web site. As many of them (if not all?) comes with pre written code. That makes it so that we can
     use the foundation that the SSG already created and change or add things to our created web site. It should be usable in a lot of different projects as it saves time
     that can be used elsewhere.</p>
+    </div>

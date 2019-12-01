@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "My Blogg Posts"
+title:  Open Graph & Comments
 date:   2019-11-15 23:51:30 -0600
+excerpt: <br> none
 ---
-In the future I will put my examinations here.
-sdkanmsjkdjdabsnd
-adjikahgduhawgdwuhagdau
-adjbhwhjdawguhd
-aedhjwbvdghiwavghwa
-dhabwedhjawdguih
+<div class = "bloggposts">
+
+</div>

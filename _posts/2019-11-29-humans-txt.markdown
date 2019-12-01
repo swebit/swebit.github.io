@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Humans.txt"
+title:  Humans.txt
 date:   2019-11-15 23:51:30 -0600
+excerpt: <br> The humans.txt file is like the end credits of a movie. Here you can put the names of those who created the
+   web site...
 ---
-
+<div class = "bloggposts">
 <h3>Humans.txt</h3>
 
 <p>The humans.txt file is like the end credits of a movie. Here you can put the names of those who created the
@@ -11,3 +13,4 @@ date:   2019-11-15 23:51:30 -0600
 
 <p>I choose to write about myself and the software that was used. I also gave a small thanks :)!
 </p>
+</div>
